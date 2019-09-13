@@ -1,0 +1,74 @@
+﻿Precinct,Candidate_R,Percentage_R,Raw_Vote_R,Candidate_D,Percentage_D,Raw_Vote_D,Total_Vote,Voter_Turnout
+DECATUR 1,Davis,22.34%,88,Dirksen Londrigan,77.66%,306,394,36.75%
+DECATUR 2,Davis,26.45%,91,Dirksen Londrigan,73.55%,253,344,36.17%
+DECATUR 3,Davis,19.77%,137,Dirksen Londrigan,80.23%,556,693,39.06%
+DECATUR 4,Davis,37.74%,100,Dirksen Londrigan,62.26%,165,265,30.22%
+DECATUR 5,Davis,47.13%,255,Dirksen Londrigan,52.87%,286,541,55.66%
+DECATUR 6,Davis,39.86%,110,Dirksen Londrigan,60.14%,166,276,39.20%
+DECATUR 7,Davis,37.55%,92,Dirksen Londrigan,62.45%,153,245,32.28%
+DECATUR 8,Davis,37.99%,310,Dirksen Londrigan,62.01%,506,816,55.21%
+DECATUR 9,Davis,28.75%,113,Dirksen Londrigan,71.25%,280,393,49.25%
+DECATUR 10,Davis,35.96%,196,Dirksen Londrigan,64.04%,349,545,41.32%
+DECATUR 11,Davis,48.11%,242,Dirksen Londrigan,51.89%,261,503,66.01%
+DECATUR 12,Davis,63.80%,379,Dirksen Londrigan,36.20%,215,594,55.26%
+DECATUR 13,Davis,60.60%,263,Dirksen Londrigan,39.40%,171,434,55.43%
+DECATUR 14,Davis,46.98%,132,Dirksen Londrigan,53.02%,149,281,41.82%
+DECATUR 15,Davis,13.38%,42,Dirksen Londrigan,86.62%,272,314,28.99%
+DECATUR 16,Davis,54.76%,213,Dirksen Londrigan,45.24%,176,389,53.51%
+DECATUR 17,Davis,10.06%,47,Dirksen Londrigan,89.94%,420,467,30.36%
+DECATUR 18,Davis,26.64%,69,Dirksen Londrigan,73.36%,190,259,33.72%
+DECATUR 19,Davis,50.00%,204,Dirksen Londrigan,50.00%,204,408,55.36%
+DECATUR 20,Davis,26.79%,157,Dirksen Londrigan,73.21%,429,586,35.93%
+DECATUR 21,Davis,64.12%,554,Dirksen Londrigan,35.88%,310,864,58.03%
+DECATUR 22,Davis,28.66%,90,Dirksen Londrigan,71.34%,224,314,32.47%
+DECATUR 23,Davis,39.39%,182,Dirksen Londrigan,60.61%,280,462,41.43%
+DECATUR 24,Davis,39.45%,86,Dirksen Londrigan,60.55%,132,218,34.28%
+DECATUR 25,Davis,44.95%,98,Dirksen Londrigan,55.05%,120,218,37.85%
+DECATUR 26,Davis,54.63%,112,Dirksen Londrigan,45.37%,93,205,34.51%
+DECATUR 27,Davis,50.92%,139,Dirksen Londrigan,49.08%,134,273,36.89%
+DECATUR 28,Davis,58.84%,346,Dirksen Londrigan,41.16%,242,588,44.75%
+DECATUR 29,Davis,47.61%,239,Dirksen Londrigan,52.39%,263,502,54.09%
+DECATUR 30,Davis,49.41%,211,Dirksen Londrigan,50.59%,216,427,53.78%
+DECATUR 31,Davis,52.94%,225,Dirksen Londrigan,47.06%,200,425,53.53%
+DECATUR 32,Davis,63.88%,389,Dirksen Londrigan,36.12%,220,609,53.51%
+DECATUR 33,Davis,55.18%,229,Dirksen Londrigan,44.82%,186,415,54.53%
+DECATUR 34,Davis,64.51%,289,Dirksen Londrigan,35.49%,159,448,62.75%
+AUSTIN,Davis,83.19%,99,Dirksen Londrigan,16.81%,20,119,62.30%
+BLUE MOUND,Davis,76.20%,317,Dirksen Londrigan,23.80%,99,416,65.51%
+FRIENDS CREEK,Davis,68.51%,409,Dirksen Londrigan,31.49%,188,597,58.24%
+HARRISTOWN 1,Davis,67.50%,540,Dirksen Londrigan,32.50%,260,800,58.39%
+HICKORY PT. 1,Davis,71.75%,1016,Dirksen Londrigan,28.25%,400,1416,63.07%
+HICKORY PT. 2,Davis,68.14%,571,Dirksen Londrigan,31.86%,267,838,64.21%
+HICKORY PT. 3,Davis,60.94%,337,Dirksen Londrigan,39.06%,216,553,62.84%
+HICKORY PT. 4,Davis,54.62%,355,Dirksen Londrigan,45.38%,295,650,55.99%
+HICKORY PT. 5,Davis,50.60%,251,Dirksen Londrigan,49.40%,245,496,40.29%
+HICKORY PT. 6,Davis,34.08%,91,Dirksen Londrigan,65.92%,176,267,30.34%
+HICKORY PT. 7,Davis,62.75%,406,Dirksen Londrigan,37.25%,241,647,64.57%
+HICKORY PT. 8,Davis,68.35%,473,Dirksen Londrigan,31.65%,219,692,60.49%
+HICKORY PT. 9,Davis,52.95%,251,Dirksen Londrigan,47.05%,223,474,57.88%
+HICKORY PT. 10,Davis,38.10%,128,Dirksen Londrigan,61.90%,208,336,49.56%
+HICKORY PT. 11,Davis,63.37%,256,Dirksen Londrigan,36.63%,148,404,55.19%
+HICKORY PT. 12,Davis,68.45%,371,Dirksen Londrigan,31.55%,171,542,61.04%
+ILLINI,Davis,75.36%,419,Dirksen Londrigan,24.64%,137,556,57.74%
+LONG CREEK 1,Davis,66.84%,379,Dirksen Londrigan,33.16%,188,567,61.50%
+LONG CREEK 2,Davis,73.98%,836,Dirksen Londrigan,26.02%,294,1130,62.43%
+LONG CREEK 3,Davis,68.97%,429,Dirksen Londrigan,31.03%,193,622,62.76%
+LONG CREEK 4,Davis,52.94%,225,Dirksen Londrigan,47.06%,200,425,54.07%
+LONG CREEK 5,Davis,65.70%,249,Dirksen Londrigan,34.30%,130,379,61.13%
+LONG CREEK 6,Davis,73.11%,658,Dirksen Londrigan,26.89%,242,900,59.09%
+LONG CREEK 7,Davis,62.90%,373,Dirksen Londrigan,37.10%,220,593,59.36%
+LONG CREEK 8,Davis,64.52%,320,Dirksen Londrigan,35.48%,176,496,55.67%
+MAROA,Davis,68.80%,516,Dirksen Londrigan,31.20%,234,750,54.62%
+MT. ZION 1,Davis,70.51%,911,Dirksen Londrigan,29.49%,381,1292,59.95%
+MT. ZION 2,Davis,71.33%,1010,Dirksen Londrigan,28.67%,406,1416,55.40%
+MT. ZION 3,Davis,79.68%,345,Dirksen Londrigan,20.32%,88,433,65.11%
+NIANTIC,Davis,67.47%,195,Dirksen Londrigan,32.53%,94,289,55.79%
+OAKLEY,Davis,75.83%,389,Dirksen Londrigan,24.17%,124,513,58.90%
+PLEASANT VIEW,Davis,76.43%,373,Dirksen Londrigan,23.57%,115,488,53.69%
+SOUTH MACON,Davis,78.59%,492,Dirksen Londrigan,21.41%,134,626,58.56%
+SOUTH WHEATLAND 1,Davis,74.97%,551,Dirksen Londrigan,25.03%,184,735,65.68%
+SOUTH WHEATLAND 2,Davis,70.22%,554,Dirksen Londrigan,29.78%,235,789,46.88%
+SOUTH WHEATLAND 3,Davis,71.83%,362,Dirksen Londrigan,28.17%,142,504,66.40%
+WHITMORE 1,Davis,72.47%,674,Dirksen Londrigan,27.53%,256,930,63.70%
+WHITMORE 2,Davis,48.61%,385,Dirksen Londrigan,51.39%,407,792,47.28%
+Total,Davis,58.55%,22945,Dirksen Londrigan,41.45%,16242,39187,51.66%

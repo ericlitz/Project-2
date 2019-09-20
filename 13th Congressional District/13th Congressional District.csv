@@ -1,0 +1,537 @@
+﻿County,Precinct,Candidate_R,Percentage_R,Raw_Vote_R,Candidate_D,Percentage_D,Raw_Vote_D,Total,Voter_Turnout
+,Total,Davis,49.98%,123176,Dirksen-Londrigan,50.02%,123299,246475,68.28%
+Calhoun County,Belleville,Davis,78.00%,78,Dirksen-Londrigan,22.00%,22,100,61.49%
+Calhoun County,Crater-Carlin,Davis,62.86%,198,Dirksen-Londrigan,37.14%,117,315,65.87%
+Calhoun County,Hamburg,Davis,59.21%,135,Dirksen-Londrigan,40.79%,93,228,63.00%
+Calhoun County,Hardin,Davis,65.94%,364,Dirksen-Londrigan,34.06%,188,552,65.91%
+Calhoun County,Gilead,Davis,71.62%,106,Dirksen-Londrigan,28.38%,42,148,62.86%
+Calhoun County,Richwoods,Davis,61.56%,245,Dirksen-Londrigan,38.44%,153,398,72.03%
+Calhoun County,Point,Davis,62.09%,321,Dirksen-Londrigan,37.91%,196,517,68.58%
+Christian County,ASSUMPTION,Davis,73.67%,375,Dirksen Londrigan,26.33%,134,509,62.09%
+Christian County,BEAR CREEK,Davis,69.40%,161,Dirksen Londrigan,30.60%,71,232,67.34%
+Christian County,BUCKHART,Davis,74.22%,593,Dirksen Londrigan,25.78%,206,799,65.77%
+Christian County,GREENWOOD,Davis,90.63%,87,Dirksen Londrigan,9.38%,9,96,68.57%
+Christian County,JOHNSON,Davis,82.87%,329,Dirksen Londrigan,17.13%,68,397,72.60%
+Christian County,KING,Davis,85.42%,82,Dirksen Londrigan,14.58%,14,96,67.13%
+Christian County,LOCUST,Davis,76.00%,228,Dirksen Londrigan,24.00%,72,300,68.78%
+Christian County,MAY,Davis,78.54%,710,Dirksen Londrigan,21.46%,194,904,71.95%
+Christian County,MOSQUITO,Davis,81.56%,146,Dirksen Londrigan,18.44%,33,179,66.05%
+Christian County,MT. AUBURN,Davis,79.58%,343,Dirksen Londrigan,20.42%,88,431,66.72%
+Christian County,PANA #1,Davis,71.31%,256,Dirksen Londrigan,28.69%,103,359,58.13%
+Christian County,PANA #2,Davis,70.68%,552,Dirksen Londrigan,29.32%,229,781,59.68%
+Christian County,PANA #3,Davis,68.62%,293,Dirksen Londrigan,31.38%,134,427,59.29%
+Christian County,PANA #4,Davis,68.39%,212,Dirksen Londrigan,31.61%,98,310,49.84%
+Christian County,PANA #5,Davis,66.27%,165,Dirksen Londrigan,33.73%,84,249,48.66%
+Christian County,PRAIRIETON,Davis,78.18%,172,Dirksen Londrigan,21.82%,48,220,70.74%
+Christian County,RICKS,Davis,79.64%,399,Dirksen Londrigan,20.36%,102,501,62.02%
+Christian County,ROSAMOND,Davis,84.25%,123,Dirksen Londrigan,15.75%,23,146,63.91%
+Christian County,SOUTH FORK #1,Davis,63.76%,285,Dirksen Londrigan,36.24%,162,447,56.02%
+Christian County,SOUTH FORK #2,Davis,71.99%,203,Dirksen Londrigan,28.01%,79,282,63.62%
+Christian County,SOUTH FORK #3,Davis,72.94%,186,Dirksen Londrigan,27.06%,69,255,58.68%
+Christian County,STONINGTON,Davis,73.95%,335,Dirksen Londrigan,26.05%,118,453,64.80%
+Christian County,TAYLORVILLE #1,Davis,72.28%,352,Dirksen Londrigan,27.72%,135,487,55.49%
+Christian County,TAYLORVILLE #2,Davis,70.65%,349,Dirksen Londrigan,29.35%,145,494,62.30%
+Christian County,TAYLORVILLE #3,Davis,71.58%,393,Dirksen Londrigan,28.42%,156,549,66.39%
+Christian County,TAYLORVILLE #4,Davis,69.20%,555,Dirksen Londrigan,30.80%,247,802,60.10%
+Christian County,TAYLORVILLE #5,Davis,70.16%,515,Dirksen Londrigan,29.84%,219,734,57.03%
+Christian County,TAYLORVILLE #6,Davis,69.72%,304,Dirksen Londrigan,30.28%,132,436,53.02%
+Christian County,TAYLORVILLE #7,Davis,69.32%,314,Dirksen Londrigan,30.68%,139,453,55.65%
+Christian County,TAYLORVILLE #8,Davis,73.60%,435,Dirksen Londrigan,26.40%,156,591,61.92%
+Champaign County,Champaign 1,Davis,36.07%,44,Dirksen-Londrigan,63.93%,78,122,60.29%
+Champaign County,Champaign 2,Davis,50.86%,624,Dirksen-Londrigan,49.14%,603,1227,73.11%
+Champaign County,Champaign 3,Davis,53.28%,723,Dirksen-Londrigan,46.72%,634,1357,75.81%
+Champaign County,Champaign 4,Davis,37.98%,621,Dirksen-Londrigan,62.02%,1014,1635,68.01%
+Champaign County,Champaign 5,Davis,46.36%,592,Dirksen-Londrigan,53.64%,685,1277,72.60%
+Champaign County,Champaign 6,Davis,39.81%,504,Dirksen-Londrigan,60.19%,762,1266,72.80%
+Champaign County,City of Champaign 1,Davis,6.29%,33,Dirksen-Londrigan,93.71%,492,525,46.26%
+Champaign County,City of Champaign 2,Davis,8.98%,53,Dirksen-Londrigan,91.02%,537,590,75.03%
+Champaign County,City of Champaign 3,Davis,16.65%,186,Dirksen-Londrigan,83.35%,931,1117,81.63%
+Champaign County,City of Champaign 4,Davis,26.04%,232,Dirksen-Londrigan,73.96%,659,891,65.28%
+Champaign County,City of Champaign 5,Davis,15.24%,223,Dirksen-Londrigan,84.76%,1240,1463,84.95%
+Champaign County,City of Champaign 6,Davis,22.30%,211,Dirksen-Londrigan,77.70%,735,946,42.71%
+Champaign County,City of Champaign 7,Davis,14.17%,174,Dirksen-Londrigan,85.83%,1054,1228,74.16%
+Champaign County,City of Champaign 8,Davis,18.79%,214,Dirksen-Londrigan,81.21%,925,1139,71.95%
+Champaign County,City of Champaign 9,Davis,17.88%,103,Dirksen-Londrigan,82.12%,473,576,38.93%
+Champaign County,City of Champaign 10,Davis,21.11%,95,Dirksen-Londrigan,78.89%,355,450,48.57%
+Champaign County,City of Champaign 11,Davis,14.86%,147,Dirksen-Londrigan,85.14%,842,989,62.27%
+Champaign County,City of Champaign 12,Davis,17.46%,146,Dirksen-Londrigan,82.54%,690,836,60.34%
+Champaign County,City of Champaign 13,Davis,15.70%,141,Dirksen-Londrigan,84.30%,757,898,69.82%
+Champaign County,City of Champaign 14,Davis,20.82%,71,Dirksen-Londrigan,79.18%,270,341,62.30%
+Champaign County,City of Champaign 15,Davis,26.43%,157,Dirksen-Londrigan,73.57%,437,594,60.16%
+Champaign County,City of Champaign 16,Davis,37.39%,178,Dirksen-Londrigan,62.61%,298,476,70.19%
+Champaign County,City of Champaign 17,Davis,33.95%,406,Dirksen-Londrigan,66.05%,790,1196,52.55%
+Champaign County,City of Champaign 18,Davis,32.82%,254,Dirksen-Londrigan,67.18%,520,774,57.02%
+Champaign County,City of Champaign 19,Davis,24.41%,156,Dirksen-Londrigan,75.59%,483,639,69.82%
+Champaign County,City of Champaign 20,Davis,26.13%,196,Dirksen-Londrigan,73.87%,554,750,77.49%
+Champaign County,City of Champaign 21,Davis,30.85%,153,Dirksen-Londrigan,69.15%,343,496,84.15%
+Champaign County,City of Champaign 22,Davis,39.46%,118,Dirksen-Londrigan,60.54%,181,299,76.56%
+Champaign County,City of Champaign 23,Davis,39.30%,145,Dirksen-Londrigan,60.70%,224,369,73.88%
+Champaign County,City of Champaign 24,Davis,39.44%,491,Dirksen-Londrigan,60.56%,754,1245,76.97%
+Champaign County,City of Champaign 25,Davis,31.16%,148,Dirksen-Londrigan,68.84%,327,475,66.35%
+Champaign County,City of Champaign 26,Davis,33.90%,238,Dirksen-Londrigan,66.10%,464,702,65.18%
+Champaign County,City of Champaign 27,Davis,35.47%,155,Dirksen-Londrigan,64.53%,282,437,73.75%
+Champaign County,City of Champaign 28,Davis,30.12%,97,Dirksen-Londrigan,69.88%,225,322,70.72%
+Champaign County,City of Champaign 29,Davis,39.81%,172,Dirksen-Londrigan,60.19%,260,432,62.68%
+Champaign County,City of Champaign 30,Davis,20.62%,107,Dirksen-Londrigan,79.38%,412,519,45.42%
+Champaign County,City of Champaign 31,Davis,29.31%,148,Dirksen-Londrigan,70.69%,357,505,57.03%
+Champaign County,City of Champaign 32,Davis,38.69%,320,Dirksen-Londrigan,61.31%,507,827,75.59%
+Champaign County,City of Champaign 33,Davis,39.25%,396,Dirksen-Londrigan,60.75%,613,1009,72.55%
+Champaign County,City of Champaign 34,Davis,36.91%,640,Dirksen-Londrigan,63.09%,1094,1734,62.25%
+Champaign County,City of Champaign 35,Davis,30.78%,265,Dirksen-Londrigan,69.22%,596,861,59.69%
+Champaign County,City of Champaign 36,Davis,38.66%,276,Dirksen-Londrigan,61.34%,438,714,66.82%
+Champaign County,City of Champaign 37,Davis,35.68%,461,Dirksen-Londrigan,64.32%,831,1292,59.96%
+Champaign County,City of Champaign 38,Davis,37.68%,454,Dirksen-Londrigan,62.32%,751,1205,75.12%
+Champaign County,City of Champaign 39,Davis,34.17%,271,Dirksen-Londrigan,65.83%,522,793,61.04%
+Champaign County,Colfax,Davis,66.67%,84,Dirksen-Londrigan,33.33%,42,126,73.41%
+Champaign County,Cunningham 1,Davis,5.89%,36,Dirksen-Londrigan,94.11%,575,611,48.33%
+Champaign County,Cunningham 2,Davis,11.76%,42,Dirksen-Londrigan,88.24%,315,357,67.45%
+Champaign County,Cunningham 3,Davis,9.30%,37,Dirksen-Londrigan,90.70%,361,398,76.50%
+Champaign County,Cunningham 4,Davis,7.41%,50,Dirksen-Londrigan,92.59%,625,675,84.84%
+Champaign County,Cunningham 5,Davis,11.11%,88,Dirksen-Londrigan,88.89%,704,792,73.56%
+Champaign County,Cunningham 6,Davis,11.88%,57,Dirksen-Londrigan,88.13%,423,480,52.13%
+Champaign County,Cunningham 7,Davis,10.91%,53,Dirksen-Londrigan,89.09%,433,486,58.92%
+Champaign County,Cunningham 8,Davis,6.62%,52,Dirksen-Londrigan,93.38%,733,785,67.17%
+Champaign County,Cunningham 9,Davis,15.01%,130,Dirksen-Londrigan,84.99%,736,866,79.80%
+Champaign County,Cunningham 10,Davis,7.31%,38,Dirksen-Londrigan,92.69%,482,520,82.20%
+Champaign County,Cunningham 11,Davis,12.50%,45,Dirksen-Londrigan,87.50%,315,360,75.51%
+Champaign County,Cunningham 12,Davis,11.47%,100,Dirksen-Londrigan,88.53%,772,872,65.21%
+Champaign County,Cunningham 13,Davis,19.02%,101,Dirksen-Londrigan,80.98%,430,531,66.13%
+Champaign County,Cunningham 14,Davis,22.41%,158,Dirksen-Londrigan,77.59%,547,705,81.69%
+Champaign County,Cunningham 15,Davis,24.80%,124,Dirksen-Londrigan,75.20%,376,500,78.26%
+Champaign County,Cunningham 16,Davis,21.80%,114,Dirksen-Londrigan,78.20%,409,523,66.75%
+Champaign County,Cunningham 17,Davis,37.67%,255,Dirksen-Londrigan,62.33%,422,677,52.45%
+Champaign County,Cunningham 18,Davis,33.95%,219,Dirksen-Londrigan,66.05%,426,645,65.69%
+Champaign County,Cunningham 19,Davis,24.07%,245,Dirksen-Londrigan,75.93%,773,1018,52.58%
+Champaign County,Cunningham 20,Davis,34.32%,163,Dirksen-Londrigan,65.68%,312,475,60.76%
+Champaign County,Cunningham 21,Davis,20.70%,107,Dirksen-Londrigan,79.30%,410,517,54.43%
+Champaign County,Cunningham 22,Davis,22.90%,155,Dirksen-Londrigan,77.10%,522,677,62.04%
+Champaign County,Cunningham 23,Davis,34.46%,408,Dirksen-Londrigan,65.54%,776,1184,72.23%
+Champaign County,Hensley,Davis,25.00%,27,Dirksen-Londrigan,75.00%,81,108,63.80%
+Champaign County,Philo,Davis,66.18%,632,Dirksen-Londrigan,33.82%,323,955,72.38%
+Champaign County,Sadorus Sadorus,Davis,63.33%,152,Dirksen-Londrigan,36.67%,88,240,65.33%
+Champaign County,Sadorus Ivesdale,Davis,56.67%,85,Dirksen-Londrigan,43.33%,65,150,64.02%
+Champaign County,Scott Bondville,Davis,60.94%,156,Dirksen-Londrigan,39.06%,100,256,67.36%
+Champaign County,Scott Seymour,Davis,76.11%,137,Dirksen-Londrigan,23.89%,43,180,61.74%
+Champaign County,Somer,Davis,66.67%,56,Dirksen-Londrigan,33.33%,28,84,63.61%
+Champaign County,Tolono 1,Davis,62.24%,506,Dirksen-Londrigan,37.76%,307,813,66.30%
+Champaign County,Tolono 2,Davis,44.60%,413,Dirksen-Londrigan,55.40%,513,926,67.07%
+Champaign County,Tolono 3,Davis,67.43%,472,Dirksen-Londrigan,32.57%,228,700,67.24%
+Champaign County,Urbana 1,Davis,39.13%,117,Dirksen-Londrigan,60.87%,182,299,80.05%
+Champaign County,Urbana 2,Davis,51.46%,404,Dirksen-Londrigan,48.54%,381,785,64.32%
+Champaign County,Urbana 3,Davis,45.43%,288,Dirksen-Londrigan,54.57%,346,634,59.29%
+Champaign County,Urbana 4,Davis,41.79%,313,Dirksen-Londrigan,58.21%,436,749,54.03%
+DeWitt County,BARNETT,Davis,75.69%,137,Dirksen Londrigan,24.31%,44,181,60.46%
+DeWitt County,CLINTONIA 1,Davis,65.36%,117,Dirksen Londrigan,34.64%,62,179,40.54%
+DeWitt County,CLINTONIA 2,Davis,58.65%,78,Dirksen Londrigan,41.35%,55,133,46.44%
+DeWitt County,CLINTONIA 3,Davis,62.72%,175,Dirksen Londrigan,37.28%,104,279,59.09%
+DeWitt County,CLINTONIA 4,Davis,72.99%,273,Dirksen Londrigan,27.01%,101,374,57.08%
+DeWitt County,CLINTONIA 5,Davis,68.93%,417,Dirksen Londrigan,31.07%,188,605,60.50%
+DeWitt County,CLINTONIA 6,Davis,61.62%,183,Dirksen Londrigan,38.38%,114,297,59.41%
+DeWitt County,CLINTONIA 7,Davis,68.98%,189,Dirksen Londrigan,31.02%,85,274,49.28%
+DeWitt County,CLINTONIA 8,Davis,67.20%,125,Dirksen Londrigan,32.80%,61,186,46.59%
+DeWitt County,CLINTONIA 9,Davis,59.09%,104,Dirksen Londrigan,40.91%,72,176,38.19%
+DeWitt County,CREEK,Davis,81.97%,191,Dirksen Londrigan,18.03%,42,233,63.59%
+DeWitt County,DEWITT,Davis,72.36%,144,Dirksen Londrigan,27.64%,55,199,61.59%
+DeWitt County,HARP,Davis,71.52%,118,Dirksen Londrigan,28.48%,47,165,63.53%
+DeWitt County,NIXON,Davis,71.29%,149,Dirksen Londrigan,28.71%,60,209,61.81%
+DeWitt County,RUTLEDGE,Davis,70.13%,54,Dirksen Londrigan,29.87%,23,77,63.93%
+DeWitt County,SANTA ANNA 1,Davis,73.28%,266,Dirksen Londrigan,26.72%,97,363,54.65%
+DeWitt County,SANTA ANNA 2,Davis,70.60%,305,Dirksen Londrigan,29.40%,127,432,55.73%
+DeWitt County,SANTA ANNA 3,Davis,65.69%,90,Dirksen Londrigan,34.31%,47,137,59.23%
+DeWitt County,TEXAS,Davis,70.46%,427,Dirksen Londrigan,29.54%,179,606,63.50%
+DeWitt County,TUNBRIDGE,Davis,82.99%,283,Dirksen Londrigan,17.01%,58,341,60.64%
+DeWitt County,WAPELLA,Davis,72.22%,286,Dirksen Londrigan,27.78%,110,396,57.22%
+DeWitt County,WAYNESVILLE,Davis,77.94%,212,Dirksen Londrigan,22.06%,60,272,63.07%
+DeWitt County,WILSON,Davis,68.35%,54,Dirksen Londrigan,31.65%,25,79,69.91%
+Jersey County,Elsah 1,Davis,53.22%,215,Dirksen-Londrigan,46.78%,189,404,53.63%
+Jersey County,Elsah 2,Davis,64.40%,293,Dirksen-Londrigan,35.60%,162,455,58.61%
+Jersey County,English,Davis,66.11%,158,Dirksen-Londrigan,33.89%,81,239,64.66%
+Jersey County,Fidelity,Davis,72.73%,184,Dirksen-Londrigan,27.27%,69,253,53.72%
+Jersey County,Jersey 1,Davis,66.75%,263,Dirksen-Londrigan,33.25%,131,394,57.16%
+Jersey County,Jersey 2,Davis,68.98%,298,Dirksen-Londrigan,31.02%,134,432,56.53%
+Jersey County,Jersey 3,Davis,70.98%,318,Dirksen-Londrigan,29.02%,130,448,60.42%
+Jersey County,Jersey 4,Davis,66.10%,232,Dirksen-Londrigan,33.90%,119,351,60.92%
+Jersey County,Jersey 5,Davis,70.13%,371,Dirksen-Londrigan,29.87%,158,529,51.03%
+Jersey County,Jersey 6,Davis,61.68%,132,Dirksen-Londrigan,38.32%,82,214,43.76%
+Jersey County,Jersey 7,Davis,75.34%,223,Dirksen-Londrigan,24.66%,73,296,54.23%
+Jersey County,Jersey 8,Davis,57.65%,98,Dirksen-Londrigan,42.35%,72,170,61.84%
+Jersey County,Jersey 9,Davis,63.13%,101,Dirksen-Londrigan,36.88%,59,160,45.15%
+Jersey County,Jersey 10,Davis,69.25%,473,Dirksen-Londrigan,30.75%,210,683,59.64%
+Jersey County,Mississippi 1,Davis,72.14%,347,Dirksen-Londrigan,27.86%,134,481,53.33%
+Jersey County,Mississippi 2,Davis,63.31%,195,Dirksen-Londrigan,36.69%,113,308,59.02%
+Jersey County,Otter Creek,Davis,73.66%,302,Dirksen-Londrigan,26.34%,108,410,60.26%
+Jersey County,Piasa 1,Davis,71.92%,479,Dirksen-Londrigan,28.08%,187,666,57.29%
+Jersey County,Piasa 2,Davis,65.85%,268,Dirksen-Londrigan,34.15%,139,407,56.29%
+Jersey County,Piasa 3,Davis,64.04%,146,Dirksen-Londrigan,35.96%,82,228,61.54%
+Jersey County,Quarry 1,Davis,67.22%,281,Dirksen-Londrigan,32.78%,137,418,66.00%
+Jersey County,Quarry 2,Davis,65.08%,82,Dirksen-Londrigan,34.92%,44,126,66.84%
+Jersey County,Richwood,Davis,73.68%,182,Dirksen-Londrigan,26.32%,65,247,58.61%
+Jersey County,Rosedale,Davis,66.84%,129,Dirksen-Londrigan,33.16%,64,193,58.70%
+Jersey County,Ruyle,Davis,76.96%,147,Dirksen-Londrigan,23.04%,44,191,69.75%
+Macon County,DECATUR 1,Davis,22.34%,88,Dirksen Londrigan,77.66%,306,394,36.75%
+Macon County,DECATUR 2,Davis,26.45%,91,Dirksen Londrigan,73.55%,253,344,36.17%
+Macon County,DECATUR 3,Davis,19.77%,137,Dirksen Londrigan,80.23%,556,693,39.06%
+Macon County,DECATUR 4,Davis,37.74%,100,Dirksen Londrigan,62.26%,165,265,30.22%
+Macon County,DECATUR 5,Davis,47.13%,255,Dirksen Londrigan,52.87%,286,541,55.66%
+Macon County,DECATUR 6,Davis,39.86%,110,Dirksen Londrigan,60.14%,166,276,39.20%
+Macon County,DECATUR 7,Davis,37.55%,92,Dirksen Londrigan,62.45%,153,245,32.28%
+Macon County,DECATUR 8,Davis,37.99%,310,Dirksen Londrigan,62.01%,506,816,55.21%
+Macon County,DECATUR 9,Davis,28.75%,113,Dirksen Londrigan,71.25%,280,393,49.25%
+Macon County,DECATUR 10,Davis,35.96%,196,Dirksen Londrigan,64.04%,349,545,41.32%
+Macon County,DECATUR 11,Davis,48.11%,242,Dirksen Londrigan,51.89%,261,503,66.01%
+Macon County,DECATUR 12,Davis,63.80%,379,Dirksen Londrigan,36.20%,215,594,55.26%
+Macon County,DECATUR 13,Davis,60.60%,263,Dirksen Londrigan,39.40%,171,434,55.43%
+Macon County,DECATUR 14,Davis,46.98%,132,Dirksen Londrigan,53.02%,149,281,41.82%
+Macon County,DECATUR 15,Davis,13.38%,42,Dirksen Londrigan,86.62%,272,314,28.99%
+Macon County,DECATUR 16,Davis,54.76%,213,Dirksen Londrigan,45.24%,176,389,53.51%
+Macon County,DECATUR 17,Davis,10.06%,47,Dirksen Londrigan,89.94%,420,467,30.36%
+Macon County,DECATUR 18,Davis,26.64%,69,Dirksen Londrigan,73.36%,190,259,33.72%
+Macon County,DECATUR 19,Davis,50.00%,204,Dirksen Londrigan,50.00%,204,408,55.36%
+Macon County,DECATUR 20,Davis,26.79%,157,Dirksen Londrigan,73.21%,429,586,35.93%
+Macon County,DECATUR 21,Davis,64.12%,554,Dirksen Londrigan,35.88%,310,864,58.03%
+Macon County,DECATUR 22,Davis,28.66%,90,Dirksen Londrigan,71.34%,224,314,32.47%
+Macon County,DECATUR 23,Davis,39.39%,182,Dirksen Londrigan,60.61%,280,462,41.43%
+Macon County,DECATUR 24,Davis,39.45%,86,Dirksen Londrigan,60.55%,132,218,34.28%
+Macon County,DECATUR 25,Davis,44.95%,98,Dirksen Londrigan,55.05%,120,218,37.85%
+Macon County,DECATUR 26,Davis,54.63%,112,Dirksen Londrigan,45.37%,93,205,34.51%
+Macon County,DECATUR 27,Davis,50.92%,139,Dirksen Londrigan,49.08%,134,273,36.89%
+Macon County,DECATUR 28,Davis,58.84%,346,Dirksen Londrigan,41.16%,242,588,44.75%
+Macon County,DECATUR 29,Davis,47.61%,239,Dirksen Londrigan,52.39%,263,502,54.09%
+Macon County,DECATUR 30,Davis,49.41%,211,Dirksen Londrigan,50.59%,216,427,53.78%
+Macon County,DECATUR 31,Davis,52.94%,225,Dirksen Londrigan,47.06%,200,425,53.53%
+Macon County,DECATUR 32,Davis,63.88%,389,Dirksen Londrigan,36.12%,220,609,53.51%
+Macon County,DECATUR 33,Davis,55.18%,229,Dirksen Londrigan,44.82%,186,415,54.53%
+Macon County,DECATUR 34,Davis,64.51%,289,Dirksen Londrigan,35.49%,159,448,62.75%
+Macon County,AUSTIN,Davis,83.19%,99,Dirksen Londrigan,16.81%,20,119,62.30%
+Macon County,BLUE MOUND,Davis,76.20%,317,Dirksen Londrigan,23.80%,99,416,65.51%
+Macon County,FRIENDS CREEK,Davis,68.51%,409,Dirksen Londrigan,31.49%,188,597,58.24%
+Macon County,HARRISTOWN 1,Davis,67.50%,540,Dirksen Londrigan,32.50%,260,800,58.39%
+Macon County,HICKORY PT. 1,Davis,71.75%,1016,Dirksen Londrigan,28.25%,400,1416,63.07%
+Macon County,HICKORY PT. 2,Davis,68.14%,571,Dirksen Londrigan,31.86%,267,838,64.21%
+Macon County,HICKORY PT. 3,Davis,60.94%,337,Dirksen Londrigan,39.06%,216,553,62.84%
+Macon County,HICKORY PT. 4,Davis,54.62%,355,Dirksen Londrigan,45.38%,295,650,55.99%
+Macon County,HICKORY PT. 5,Davis,50.60%,251,Dirksen Londrigan,49.40%,245,496,40.29%
+Macon County,HICKORY PT. 6,Davis,34.08%,91,Dirksen Londrigan,65.92%,176,267,30.34%
+Macon County,HICKORY PT. 7,Davis,62.75%,406,Dirksen Londrigan,37.25%,241,647,64.57%
+Macon County,HICKORY PT. 8,Davis,68.35%,473,Dirksen Londrigan,31.65%,219,692,60.49%
+Macon County,HICKORY PT. 9,Davis,52.95%,251,Dirksen Londrigan,47.05%,223,474,57.88%
+Macon County,HICKORY PT. 10,Davis,38.10%,128,Dirksen Londrigan,61.90%,208,336,49.56%
+Macon County,HICKORY PT. 11,Davis,63.37%,256,Dirksen Londrigan,36.63%,148,404,55.19%
+Macon County,HICKORY PT. 12,Davis,68.45%,371,Dirksen Londrigan,31.55%,171,542,61.04%
+Macon County,ILLINI,Davis,75.36%,419,Dirksen Londrigan,24.64%,137,556,57.74%
+Macon County,LONG CREEK 1,Davis,66.84%,379,Dirksen Londrigan,33.16%,188,567,61.50%
+Macon County,LONG CREEK 2,Davis,73.98%,836,Dirksen Londrigan,26.02%,294,1130,62.43%
+Macon County,LONG CREEK 3,Davis,68.97%,429,Dirksen Londrigan,31.03%,193,622,62.76%
+Macon County,LONG CREEK 4,Davis,52.94%,225,Dirksen Londrigan,47.06%,200,425,54.07%
+Macon County,LONG CREEK 5,Davis,65.70%,249,Dirksen Londrigan,34.30%,130,379,61.13%
+Macon County,LONG CREEK 6,Davis,73.11%,658,Dirksen Londrigan,26.89%,242,900,59.09%
+Macon County,LONG CREEK 7,Davis,62.90%,373,Dirksen Londrigan,37.10%,220,593,59.36%
+Macon County,LONG CREEK 8,Davis,64.52%,320,Dirksen Londrigan,35.48%,176,496,55.67%
+Macon County,MAROA,Davis,68.80%,516,Dirksen Londrigan,31.20%,234,750,54.62%
+Macon County,MT. ZION 1,Davis,70.51%,911,Dirksen Londrigan,29.49%,381,1292,59.95%
+Macon County,MT. ZION 2,Davis,71.33%,1010,Dirksen Londrigan,28.67%,406,1416,55.40%
+Macon County,MT. ZION 3,Davis,79.68%,345,Dirksen Londrigan,20.32%,88,433,65.11%
+Macon County,NIANTIC,Davis,67.47%,195,Dirksen Londrigan,32.53%,94,289,55.79%
+Macon County,OAKLEY,Davis,75.83%,389,Dirksen Londrigan,24.17%,124,513,58.90%
+Macon County,PLEASANT VIEW,Davis,76.43%,373,Dirksen Londrigan,23.57%,115,488,53.69%
+Macon County,SOUTH MACON,Davis,78.59%,492,Dirksen Londrigan,21.41%,134,626,58.56%
+Macon County,SOUTH WHEATLAND 1,Davis,74.97%,551,Dirksen Londrigan,25.03%,184,735,65.68%
+Macon County,SOUTH WHEATLAND 2,Davis,70.22%,554,Dirksen Londrigan,29.78%,235,789,46.88%
+Macon County,SOUTH WHEATLAND 3,Davis,71.83%,362,Dirksen Londrigan,28.17%,142,504,66.40%
+Macon County,WHITMORE 1,Davis,72.47%,674,Dirksen Londrigan,27.53%,256,930,63.70%
+Macon County,WHITMORE 2,Davis,48.61%,385,Dirksen Londrigan,51.39%,407,792,47.28%
+Macoupin County,Barr,Davis,84.93%,124,Dirksen-Londrigan,15.07%,22,146,66.08%
+Macoupin County,Bird,Davis,72.56%,119,Dirksen-Londrigan,27.44%,45,164,73.04%
+Macoupin County,Brighton 1,Davis,64.30%,272,Dirksen-Londrigan,35.70%,151,423,57.70%
+Macoupin County,Brighton 2,Davis,73.11%,242,Dirksen-Londrigan,26.89%,89,331,55.56%
+Macoupin County,Brighton 3,Davis,68.28%,551,Dirksen-Londrigan,31.72%,256,807,54.27%
+Macoupin County,Brushy Mound,Davis,68.63%,245,Dirksen-Londrigan,31.37%,112,357,64.77%
+Macoupin County,Bunker Hill 1,Davis,64.59%,270,Dirksen-Londrigan,35.41%,148,418,56.41%
+Macoupin County,Bunker Hill 2,Davis,63.32%,183,Dirksen-Londrigan,36.68%,106,289,56.70%
+Macoupin County,Bunker Hill 3,Davis,61.00%,355,Dirksen-Londrigan,39.00%,227,582,57.21%
+Macoupin County,Cahokia 1,Davis,68.42%,78,Dirksen-Londrigan,31.58%,36,114,59.79%
+Macoupin County,Cahokia 2,Davis,46.76%,159,Dirksen-Londrigan,53.24%,181,340,51.77%
+Macoupin County,Cahokia 3,Davis,55.03%,164,Dirksen-Londrigan,44.97%,134,298,47.66%
+Macoupin County,Cahokia 4,Davis,57.97%,80,Dirksen-Londrigan,42.03%,58,138,55.56%
+Macoupin County,Cahokia 5,Davis,47.79%,108,Dirksen-Londrigan,52.21%,118,226,50.54%
+Macoupin County,Carlinville 1,Davis,55.84%,344,Dirksen-Londrigan,44.16%,272,616,61.37%
+Macoupin County,Carlinville 2,Davis,60.00%,264,Dirksen-Londrigan,40.00%,176,440,61.49%
+Macoupin County,Carlinville 3,Davis,61.51%,350,Dirksen-Londrigan,38.49%,219,569,58.83%
+Macoupin County,Carlinville 4,Davis,48.57%,34,Dirksen-Londrigan,51.43%,36,70,42.39%
+Macoupin County,Carlinville 5,Davis,59.29%,201,Dirksen-Londrigan,40.71%,138,339,53.81%
+Macoupin County,Carlinville 6,Davis,60.86%,213,Dirksen-Londrigan,39.14%,137,350,51.33%
+Macoupin County,Chesterfield,Davis,68.47%,202,Dirksen-Londrigan,31.53%,93,295,58.96%
+Macoupin County,Dorchester 1,Davis,63.75%,204,Dirksen-Londrigan,36.25%,116,320,64.69%
+Macoupin County,Dorchester 2,Davis,54.09%,172,Dirksen-Londrigan,45.91%,146,318,58.16%
+Macoupin County,Gillespie 1,Davis,48.04%,135,Dirksen-Londrigan,51.96%,146,281,55.45%
+Macoupin County,Gillespie 2,Davis,48.45%,94,Dirksen-Londrigan,51.55%,100,194,55.40%
+Macoupin County,Gillespie 3,Davis,42.98%,52,Dirksen-Londrigan,57.02%,69,121,56.05%
+Macoupin County,Gillespie 4,Davis,61.70%,87,Dirksen-Londrigan,38.30%,54,141,58.80%
+Macoupin County,Gillespie 5,Davis,49.48%,237,Dirksen-Londrigan,50.52%,242,479,62.34%
+Macoupin County,Gillespie 6,Davis,45.64%,110,Dirksen-Londrigan,54.36%,131,241,49.22%
+Macoupin County,Girard 1,Davis,65.99%,163,Dirksen-Londrigan,34.01%,84,247,51.32%
+Macoupin County,Girard 2,Davis,57.76%,309,Dirksen-Londrigan,42.24%,226,535,56.24%
+Macoupin County,Hillyard,Davis,56.18%,141,Dirksen-Londrigan,43.82%,110,251,53.59%
+Macoupin County,Honey Point,Davis,67.47%,56,Dirksen-Londrigan,32.53%,27,83,65.63%
+Macoupin County,Mt. Olive 1,Davis,50.50%,102,Dirksen-Londrigan,49.50%,100,202,60.06%
+Macoupin County,Mt. Olive 2,Davis,42.79%,92,Dirksen-Londrigan,57.21%,123,215,57.70%
+Macoupin County,Mt. Olive 3,Davis,62.61%,144,Dirksen-Londrigan,37.39%,86,230,62.01%
+Macoupin County,Mt. Olive 4,Davis,50.68%,112,Dirksen-Londrigan,49.32%,109,221,60.80%
+Macoupin County,Mt. Olive 5,Davis,50.66%,116,Dirksen-Londrigan,49.34%,113,229,49.79%
+Macoupin County,Mt. Olive 6,Davis,57.02%,134,Dirksen-Londrigan,42.98%,101,235,60.10%
+Macoupin County,Nilwood 1,Davis,67.63%,94,Dirksen-Londrigan,32.37%,45,139,60.43%
+Macoupin County,Nilwood 2,Davis,78.57%,88,Dirksen-Londrigan,21.43%,24,112,62.37%
+Macoupin County,North Otter,Davis,68.88%,290,Dirksen-Londrigan,31.12%,131,421,69.08%
+Macoupin County,North Palmyra,Davis,70.14%,242,Dirksen-Londrigan,29.86%,103,345,61.18%
+Macoupin County,Polk,Davis,70.55%,206,Dirksen-Londrigan,29.45%,86,292,62.05%
+Macoupin County,Scottville,Davis,81.12%,116,Dirksen-Londrigan,18.88%,27,143,65.33%
+Macoupin County,Shaws Point,Davis,67.05%,175,Dirksen-Londrigan,32.95%,86,261,67.34%
+Macoupin County,Shipman 1,Davis,62.39%,204,Dirksen-Londrigan,37.61%,123,327,59.58%
+Macoupin County,Shipman 2,Davis,76.23%,93,Dirksen-Londrigan,23.77%,29,122,68.13%
+Macoupin County,Shipman 3,Davis,75.21%,88,Dirksen-Londrigan,24.79%,29,117,62.50%
+Macoupin County,South Otter,Davis,76.89%,163,Dirksen-Londrigan,23.11%,49,212,62.50%
+Macoupin County,South Palmyra,Davis,75.45%,209,Dirksen-Londrigan,24.55%,68,277,56.08%
+Macoupin County,Staunton 1,Davis,57.69%,165,Dirksen-Londrigan,42.31%,121,286,55.92%
+Macoupin County,Staunton 2,Davis,56.97%,229,Dirksen-Londrigan,43.03%,173,402,50.49%
+Macoupin County,Staunton 3,Davis,50.89%,286,Dirksen-Londrigan,49.11%,276,562,58.63%
+Macoupin County,Staunton 4,Davis,54.41%,259,Dirksen-Londrigan,45.59%,217,476,58.23%
+Macoupin County,Staunton 5,Davis,58.11%,215,Dirksen-Londrigan,41.89%,155,370,55.83%
+Macoupin County,Virden 1,Davis,68.07%,194,Dirksen-Londrigan,31.93%,91,285,55.35%
+Macoupin County,Virden 2,Davis,61.69%,182,Dirksen-Londrigan,38.31%,113,295,47.02%
+Macoupin County,Virden 3,Davis,63.64%,231,Dirksen-Londrigan,36.36%,132,363,57.87%
+Macoupin County,Virden 4,Davis,61.09%,135,Dirksen-Londrigan,38.91%,86,221,55.37%
+Macoupin County,Western Mound,Davis,74.36%,87,Dirksen-Londrigan,25.64%,30,117,65.76%
+Madison County,New Douglas 01,Davis,66.67%,146,Dirksen-Londrigan,33.33%,73,219,63.40%
+Madison County,Olive 01,Davis,56.78%,293,Dirksen-Londrigan,43.22%,223,516,60.09%
+Madison County,Olive 02,Davis,60.99%,111,Dirksen-Londrigan,39.01%,71,182,57.86%
+Madison County,Omphghent 01,Davis,64.61%,451,Dirksen-Londrigan,35.39%,247,698,61.46%
+Madison County,Omphghent 02,Davis,65.63%,254,Dirksen-Londrigan,34.37%,133,387,69.56%
+Madison County,Collinsville 01,Davis,43.12%,166,Dirksen-Londrigan,56.88%,219,385,50.83%
+Madison County,Collinsville 02,Davis,45.32%,218,Dirksen-Londrigan,54.68%,263,481,51.69%
+Madison County,Collinsville 03,Davis,40.59%,289,Dirksen-Londrigan,59.41%,423,712,60.85%
+Madison County,Collinsville 04,Davis,50.54%,188,Dirksen-Londrigan,49.46%,184,372,52.63%
+Madison County,Collinsville 07,Davis,49.67%,225,Dirksen-Londrigan,50.33%,228,453,63.97%
+Madison County,Collinsville 10,Davis,57.68%,338,Dirksen-Londrigan,42.32%,248,586,64.29%
+Madison County,Collinsville 11,Davis,58.25%,399,Dirksen-Londrigan,41.75%,286,685,65.50%
+Madison County,Collinsville 14,Davis,53.64%,81,Dirksen-Londrigan,46.36%,70,151,58.40%
+Madison County,Collinsville 15,Davis,45.87%,200,Dirksen-Londrigan,54.13%,236,436,65.32%
+Madison County,Collinsville 16,Davis,53.04%,262,Dirksen-Londrigan,46.96%,232,494,56.40%
+Madison County,Collinsville 17,Davis,57.16%,407,Dirksen-Londrigan,42.84%,305,712,71.54%
+Madison County,Collinsville 19,Davis,59.31%,258,Dirksen-Londrigan,40.69%,177,435,69.31%
+Madison County,Collinsville 20,Davis,46.41%,181,Dirksen-Londrigan,53.59%,209,390,63.24%
+Madison County,Collinsville 21,Davis,55.69%,279,Dirksen-Londrigan,44.31%,222,501,62.41%
+Madison County,Collinsville 22,Davis,39.68%,148,Dirksen-Londrigan,60.32%,225,373,60.64%
+Madison County,Collinsville 23,Davis,61.72%,487,Dirksen-Londrigan,38.28%,302,789,67.45%
+Madison County,Collinsville 24,Davis,49.07%,291,Dirksen-Londrigan,50.93%,302,593,59.86%
+Madison County,Collinsville 28,Davis,57.82%,270,Dirksen-Londrigan,42.18%,197,467,67.24%
+Madison County,Collinsville 29,Davis,47.65%,142,Dirksen-Londrigan,52.35%,156,298,53.65%
+Madison County,Collinsville 30,Davis,44.49%,202,Dirksen-Londrigan,55.51%,252,454,63.45%
+Madison County,Edwardsville 01,Davis,35.83%,177,Dirksen-Londrigan,64.17%,317,494,64.50%
+Madison County,Edwardsville 02,Davis,32.16%,164,Dirksen-Londrigan,67.84%,346,510,65.41%
+Madison County,Edwardsville 03,Davis,40.37%,109,Dirksen-Londrigan,59.63%,161,270,65.23%
+Madison County,Edwardsville 04,Davis,37.64%,233,Dirksen-Londrigan,62.36%,386,619,65.87%
+Madison County,Edwardsville 05,Davis,36.69%,142,Dirksen-Londrigan,63.31%,245,387,62.68%
+Madison County,Edwardsville 06,Davis,53.16%,463,Dirksen-Londrigan,46.84%,408,871,72.01%
+Madison County,Edwardsville 07,Davis,50.52%,391,Dirksen-Londrigan,49.48%,383,774,64.88%
+Madison County,Edwardsville 08,Davis,40.22%,323,Dirksen-Londrigan,59.78%,480,803,70.22%
+Madison County,Edwardsville 09,Davis,32.67%,181,Dirksen-Londrigan,67.33%,373,554,73.50%
+Madison County,Edwardsville 10,Davis,36.65%,151,Dirksen-Londrigan,63.35%,261,412,63.80%
+Madison County,Edwardsville 11,Davis,52.95%,242,Dirksen-Londrigan,47.05%,215,457,67.92%
+Madison County,Edwardsville 12,Davis,46.28%,112,Dirksen-Londrigan,53.72%,130,242,49.09%
+Madison County,Edwardsville 13,Davis,50.77%,397,Dirksen-Londrigan,49.23%,385,782,72.01%
+Madison County,Edwardsville 14,Davis,38.34%,189,Dirksen-Londrigan,61.66%,304,493,72.98%
+Madison County,Edwardsville 15,Davis,45.45%,275,Dirksen-Londrigan,54.55%,330,605,64.67%
+Madison County,Edwardsville 16,Davis,40.09%,269,Dirksen-Londrigan,59.91%,402,671,75.27%
+Madison County,Edwardsville 17,Davis,54.97%,470,Dirksen-Londrigan,45.03%,385,855,74.21%
+Madison County,Edwardsville 18,Davis,52.26%,428,Dirksen-Londrigan,47.74%,391,819,66.43%
+Madison County,Edwardsville 19,Davis,54.37%,560,Dirksen-Londrigan,45.63%,470,1030,68.82%
+Madison County,Edwardsville 20,Davis,58.93%,287,Dirksen-Londrigan,41.07%,200,487,69.32%
+Madison County,Edwardsville 21,Davis,20.04%,105,Dirksen-Londrigan,79.96%,419,524,84.12%
+Madison County,Edwardsville 22,Davis,67.12%,147,Dirksen-Londrigan,32.88%,72,219,70.66%
+Madison County,Edwardsville 23,Davis,34.33%,265,Dirksen-Londrigan,65.67%,507,772,59.76%
+Madison County,Edwardsville 24,Davis,49.36%,269,Dirksen-Londrigan,50.64%,276,545,72.19%
+Madison County,Edwardsville 25,Davis,46.26%,241,Dirksen-Londrigan,53.74%,280,521,63.02%
+Madison County,Edwardsville 26,Davis,46.90%,242,Dirksen-Londrigan,53.10%,274,516,63.74%
+Madison County,Edwardsville 27,Davis,50.87%,439,Dirksen-Londrigan,49.13%,424,863,68.60%
+Madison County,Edwardsville 28,Davis,50.00%,255,Dirksen-Londrigan,50.00%,255,510,71.61%
+Madison County,Edwardsville 29,Davis,34.81%,189,Dirksen-Londrigan,65.19%,354,543,68.63%
+Madison County,Fort Russell 01,Davis,62.94%,445,Dirksen-Londrigan,37.06%,262,707,73.06%
+Madison County,Fort Russell 03,Davis,62.26%,414,Dirksen-Londrigan,37.74%,251,665,56.02%
+Madison County,Fort Russell 05,Davis,61.50%,508,Dirksen-Londrigan,38.50%,318,826,65.55%
+Madison County,Fort Russell 06,Davis,62.23%,262,Dirksen-Londrigan,37.77%,159,421,66.20%
+Madison County,Moro 01,Davis,65.22%,300,Dirksen-Londrigan,34.78%,160,460,67.77%
+Madison County,Moro 02,Davis,61.33%,268,Dirksen-Londrigan,38.67%,169,437,65.15%
+Madison County,Moro 03,Davis,61.28%,516,Dirksen-Londrigan,38.72%,326,842,65.41%
+Madison County,Foster 01,Davis,65.37%,387,Dirksen-Londrigan,34.63%,205,592,67.30%
+Madison County,Foster 02,Davis,61.88%,112,Dirksen-Londrigan,38.12%,69,181,61.56%
+Madison County,Foster 03,Davis,58.76%,228,Dirksen-Londrigan,41.24%,160,388,61.74%
+Madison County,Foster 04,Davis,66.40%,251,Dirksen-Londrigan,33.60%,127,378,67.79%
+Madison County,Foster 05,Davis,65.05%,242,Dirksen-Londrigan,34.95%,130,372,66.73%
+Madison County,Godfrey 01,Davis,53.77%,264,Dirksen-Londrigan,46.23%,227,491,53.57%
+Madison County,Godfrey 02,Davis,56.49%,174,Dirksen-Londrigan,43.51%,134,308,53.82%
+Madison County,Godfrey 03,Davis,62.50%,275,Dirksen-Londrigan,37.50%,165,440,66.12%
+Madison County,Godfrey 04,Davis,64.50%,338,Dirksen-Londrigan,35.50%,186,524,68.95%
+Madison County,Godfrey 05,Davis,63.24%,394,Dirksen-Londrigan,36.76%,229,623,71.01%
+Madison County,Godfrey 06,Davis,56.63%,397,Dirksen-Londrigan,43.37%,304,701,60.80%
+Madison County,Godfrey 07,Davis,58.05%,364,Dirksen-Londrigan,41.95%,263,627,66.98%
+Madison County,Godfrey 08,Davis,57.06%,190,Dirksen-Londrigan,42.94%,143,333,59.89%
+Madison County,Godfrey 09,Davis,63.81%,432,Dirksen-Londrigan,36.19%,245,677,61.39%
+Madison County,Godfrey 10,Davis,58.24%,403,Dirksen-Londrigan,41.76%,289,692,62.59%
+Madison County,Godfrey 11,Davis,64.83%,282,Dirksen-Londrigan,35.17%,153,435,64.42%
+Madison County,Godfrey 12,Davis,48.44%,155,Dirksen-Londrigan,51.56%,165,320,42.88%
+Madison County,Godfrey 13,Davis,63.49%,447,Dirksen-Londrigan,36.51%,257,704,65.21%
+Madison County,Godfrey 14,Davis,63.70%,451,Dirksen-Londrigan,36.30%,257,708,68.88%
+Madison County,Godfrey 15,Davis,61.57%,338,Dirksen-Londrigan,38.43%,211,549,67.98%
+McClean County,BLOOMINGTON 01,Davis,58.10%,143,Dirksen Londrigan,41.90%,103,246,54.89%
+McClean County,BLOOMINGTON 02,Davis,50.90%,27,Dirksen Londrigan,49.10%,26,53,58.96%
+McClean County,DALE 01,Davis,68.50%,440,Dirksen Londrigan,31.50%,202,642,62.00%
+McClean County,FUNKS GROVE 01,Davis,70.80%,92,Dirksen Londrigan,29.20%,38,130,64.08%
+McClean County,NORMAL 01,Davis,30.80%,33,Dirksen Londrigan,69.20%,74,107,54.53%
+McClean County,NORMAL 02,Davis,25.60%,247,Dirksen Londrigan,74.40%,716,963,63.10%
+McClean County,NORMAL 03,Davis,40.00%,2,Dirksen Londrigan,60.00%,3,5,62.86%
+McClean County,NORMAL 07,Davis,22.20%,4,Dirksen Londrigan,77.80%,14,18,63.70%
+McClean County,NORMAL 08,Davis,20.00%,198,Dirksen Londrigan,80.00%,792,990,69.63%
+McClean County,NORMAL 09,Davis,30.40%,168,Dirksen Londrigan,69.60%,385,553,53.37%
+McClean County,NORMAL 10,Davis,39.70%,198,Dirksen Londrigan,60.30%,301,499,57.97%
+McClean County,NORMAL 11,Davis,39.80%,212,Dirksen Londrigan,60.20%,321,533,52.70%
+McClean County,NORMAL 14,Davis,29.40%,274,Dirksen Londrigan,70.60%,659,933,68.38%
+McClean County,NORMAL 21,Davis,42.20%,208,Dirksen Londrigan,57.80%,285,493,58.52%
+McClean County,NORMAL 22,Davis,37.20%,199,Dirksen Londrigan,62.80%,336,535,65.10%
+McClean County,NORMAL 23,Davis,36.60%,181,Dirksen Londrigan,63.40%,314,495,57.99%
+McClean County,NORMAL 24,Davis,21.30%,61,Dirksen Londrigan,78.70%,225,286,49.48%
+McClean County,NORMAL 29,Davis,21.90%,133,Dirksen Londrigan,78.10%,474,607,55.32%
+McClean County,NORMAL 30,Davis,16.20%,36,Dirksen Londrigan,83.80%,186,222,59.69%
+McClean County,RANDOLPH 01,Davis,68.00%,420,Dirksen Londrigan,32.00%,198,618,59.07%
+McClean County,RANDOLPH 03,Davis,48.90%,22,Dirksen Londrigan,51.10%,23,45,66.22%
+Montgomery County,Audubon,Davis,78.06%,185,Dirksen-Londrigan,21.94%,52,237,72.67%
+Montgomery County,Bois D'arc,Davis,66.50%,274,Dirksen-Londrigan,33.50%,138,412,70.07%
+Montgomery County,Butler Grove,Davis,65.08%,259,Dirksen-Londrigan,34.92%,139,398,78.85%
+Montgomery County,East Fork 1,Davis,59.72%,255,Dirksen-Londrigan,40.28%,172,427,72.43%
+Montgomery County,East Fork 2,Davis,62.03%,49,Dirksen-Londrigan,37.97%,30,79,67.77%
+Montgomery County,East Fork 3,Davis,56.86%,232,Dirksen-Londrigan,43.14%,176,408,76.64%
+Montgomery County,Fillmore Consolidated,Davis,66.67%,270,Dirksen-Londrigan,33.33%,135,405,75.31%
+Montgomery County,Grisham 1,Davis,48.75%,78,Dirksen-Londrigan,51.25%,82,160,74.65%
+Montgomery County,Grisham 2,Davis,65.71%,69,Dirksen-Londrigan,34.29%,36,105,61.45%
+Montgomery County,Harvel,Davis,60.00%,63,Dirksen-Londrigan,40.00%,42,105,80.30%
+Montgomery County,Hillsboro 1,Davis,59.26%,192,Dirksen-Londrigan,40.74%,132,324,73.32%
+Montgomery County,Hillsboro 2,Davis,64.66%,183,Dirksen-Londrigan,35.34%,100,283,78.86%
+Montgomery County,Hillsboro 3,Davis,65.97%,316,Dirksen-Londrigan,34.03%,163,479,74.47%
+Montgomery County,Hillsboro 4,Davis,64.56%,133,Dirksen-Londrigan,35.44%,73,206,63.45%
+Montgomery County,Hillsboro 5,Davis,60.49%,297,Dirksen-Londrigan,39.51%,194,491,75.33%
+Montgomery County,Hillsboro 6,Davis,52.85%,250,Dirksen-Londrigan,47.15%,223,473,74.69%
+Montgomery County,Irving,Davis,67.38%,285,Dirksen-Londrigan,32.62%,138,423,74.61%
+Montgomery County,Nokomis 1,Davis,69.29%,97,Dirksen-Londrigan,30.71%,43,140,72.82%
+Montgomery County,Nokomis 2,Davis,73.20%,284,Dirksen-Londrigan,26.80%,104,388,70.69%
+Montgomery County,Nokomis 3,Davis,66.91%,184,Dirksen-Londrigan,33.09%,91,275,69.48%
+Montgomery County,Nokomis 4,Davis,68.93%,213,Dirksen-Londrigan,31.07%,96,309,69.69%
+Montgomery County,North Litchfield 1,Davis,72.23%,346,Dirksen-Londrigan,27.77%,133,479,77.01%
+Montgomery County,North Litchfield 2,Davis,63.96%,236,Dirksen-Londrigan,36.04%,133,369,68.68%
+Montgomery County,North Litchfield 3,Davis,61.67%,185,Dirksen-Londrigan,38.33%,115,300,75.43%
+Montgomery County,North Litchfield 4,Davis,63.32%,145,Dirksen-Londrigan,36.68%,84,229,64.92%
+Montgomery County,North Litchfield 5,Davis,60.81%,135,Dirksen-Londrigan,39.19%,87,222,66.09%
+Montgomery County,North Litchfield 6,Davis,69.92%,351,Dirksen-Londrigan,30.08%,151,502,70.61%
+Montgomery County,Pitman,Davis,70.17%,127,Dirksen-Londrigan,29.83%,54,181,73.54%
+Montgomery County,Raymond,Davis,74.61%,426,Dirksen-Londrigan,25.39%,145,571,74.52%
+Montgomery County,Rountree,Davis,79.34%,96,Dirksen-Londrigan,20.66%,25,121,80.26%
+Montgomery County,South Litchfield 1,Davis,61.06%,196,Dirksen-Londrigan,38.94%,125,321,67.77%
+Montgomery County,South Litchfield 2,Davis,54.32%,201,Dirksen-Londrigan,45.68%,169,370,59.34%
+Montgomery County,South Litchfield 3,Davis,64.24%,97,Dirksen-Londrigan,35.76%,54,151,55.00%
+Montgomery County,South Litchfield 4,Davis,61.48%,166,Dirksen-Londrigan,38.52%,104,270,68.38%
+Montgomery County,Walshville,Davis,61.42%,78,Dirksen-Londrigan,38.58%,49,127,64.02%
+Montgomery County,Witt 1,Davis,75.84%,204,Dirksen-Londrigan,24.16%,65,269,77.22%
+Montgomery County,Witt 2,Davis,58.68%,98,Dirksen-Londrigan,41.32%,69,167,65.93%
+Montgomery County,Zanesville,Davis,82.06%,183,Dirksen-Londrigan,17.94%,40,223,77.24%
+Sangamon County,Capital 001,Davis,28.57%,2,Dirksen-Londrigan,71.43%,5,7,49.79%
+Sangamon County,Capital 003,Davis,10.49%,28,Dirksen-Londrigan,89.51%,239,267,41.97%
+Sangamon County,Capital 004,Davis,31.76%,74,Dirksen-Londrigan,68.24%,159,233,60.49%
+Sangamon County,Capital 005,Davis,25.16%,80,Dirksen-Londrigan,74.84%,238,318,46.14%
+Sangamon County,Capital 006,Davis,12.46%,40,Dirksen-Londrigan,87.54%,281,321,40.61%
+Sangamon County,Capital 007,Davis,27.01%,47,Dirksen-Londrigan,72.99%,127,174,33.64%
+Sangamon County,Capital 008,Davis,53.20%,208,Dirksen-Londrigan,46.80%,183,391,49.32%
+Sangamon County,Capital 009,Davis,55.76%,300,Dirksen-Londrigan,44.24%,238,538,65.64%
+Sangamon County,Capital 010,Davis,48.12%,179,Dirksen-Londrigan,51.88%,193,372,60.79%
+Sangamon County,Capital 011,Davis,45.45%,175,Dirksen-Londrigan,54.55%,210,385,58.16%
+Sangamon County,Capital 012,Davis,47.58%,216,Dirksen-Londrigan,52.42%,238,454,57.97%
+Sangamon County,Capital 013,Davis,43.92%,83,Dirksen-Londrigan,56.08%,106,189,42.54%
+Sangamon County,Capital 014,Davis,45.08%,325,Dirksen-Londrigan,54.92%,396,721,78.30%
+Sangamon County,Capital 018,Davis,58.31%,207,Dirksen-Londrigan,41.69%,148,355,60.27%
+Sangamon County,Capital 019,Davis,45.66%,142,Dirksen-Londrigan,54.34%,169,311,60.84%
+Sangamon County,Capital 021,Davis,53.13%,153,Dirksen-Londrigan,46.88%,135,288,61.72%
+Sangamon County,Capital 023,Davis,9.26%,30,Dirksen-Londrigan,90.74%,294,324,47.03%
+Sangamon County,Capital 024,Davis,48.84%,190,Dirksen-Londrigan,51.16%,199,389,55.76%
+Sangamon County,Capital 026,Davis,51.94%,134,Dirksen-Londrigan,48.06%,124,258,48.70%
+Sangamon County,Capital 027,Davis,34.95%,115,Dirksen-Londrigan,65.05%,214,329,49.27%
+Sangamon County,Capital 032,Davis,30.90%,144,Dirksen-Londrigan,69.10%,322,466,57.49%
+Sangamon County,Capital 033,Davis,30.25%,111,Dirksen-Londrigan,69.75%,256,367,49.67%
+Sangamon County,Capital 034,Davis,37.26%,158,Dirksen-Londrigan,62.74%,266,424,53.62%
+Sangamon County,Capital 035,Davis,35.54%,145,Dirksen-Londrigan,64.46%,263,408,59.37%
+Sangamon County,Capital 036,Davis,39.13%,189,Dirksen-Londrigan,60.87%,294,483,68.85%
+Sangamon County,Capital 037,Davis,60.28%,466,Dirksen-Londrigan,39.72%,307,773,75.75%
+Sangamon County,Capital 039,Davis,31.52%,87,Dirksen-Londrigan,68.48%,189,276,37.30%
+Sangamon County,Capital 041,Davis,56.71%,245,Dirksen-Londrigan,43.29%,187,432,58.80%
+Sangamon County,Capital 042,Davis,38.25%,192,Dirksen-Londrigan,61.75%,310,502,60.36%
+Sangamon County,Capital 043,Davis,28.11%,149,Dirksen-Londrigan,71.89%,381,530,70.47%
+Sangamon County,Capital 045,Davis,33.62%,158,Dirksen-Londrigan,66.38%,312,470,70.71%
+Sangamon County,Capital 046,Davis,32.16%,174,Dirksen-Londrigan,67.84%,367,541,70.83%
+Sangamon County,Capital 047,Davis,63.64%,385,Dirksen-Londrigan,36.36%,220,605,74.54%
+Sangamon County,Capital 048,Davis,8.33%,21,Dirksen-Londrigan,91.67%,231,252,37.45%
+Sangamon County,Capital 049,Davis,36.43%,208,Dirksen-Londrigan,63.57%,363,571,71.09%
+Sangamon County,Capital 050,Davis,35.21%,156,Dirksen-Londrigan,64.79%,287,443,51.82%
+Sangamon County,Capital 051,Davis,35.94%,170,Dirksen-Londrigan,64.06%,303,473,61.68%
+Sangamon County,Capital 054,Davis,41.30%,228,Dirksen-Londrigan,58.70%,324,552,78.28%
+Sangamon County,Capital 055,Davis,37.63%,219,Dirksen-Londrigan,62.37%,363,582,71.08%
+Sangamon County,Capital 056,Davis,48.06%,273,Dirksen-Londrigan,51.94%,295,568,73.65%
+Sangamon County,Capital 058,Davis,29.55%,86,Dirksen-Londrigan,70.45%,205,291,49.01%
+Sangamon County,Capital 059,Davis,59.44%,362,Dirksen-Londrigan,40.56%,247,609,74.61%
+Sangamon County,Capital 060,Davis,53.15%,177,Dirksen-Londrigan,46.85%,156,333,57.43%
+Sangamon County,Capital 061,Davis,43.49%,227,Dirksen-Londrigan,56.51%,295,522,66.25%
+Sangamon County,Capital 062,Davis,31.88%,44,Dirksen-Londrigan,68.12%,94,138,69.62%
+Sangamon County,Capital 064,Davis,10.14%,35,Dirksen-Londrigan,89.86%,310,345,47.58%
+Sangamon County,Capital 065,Davis,20.54%,46,Dirksen-Londrigan,79.46%,178,224,39.36%
+Sangamon County,Capital 068,Davis,41.13%,174,Dirksen-Londrigan,58.87%,249,423,51.43%
+Sangamon County,Capital 071,Davis,46.73%,186,Dirksen-Londrigan,53.27%,212,398,63.41%
+Sangamon County,Capital 072,Davis,50.55%,137,Dirksen-Londrigan,49.45%,134,271,43.77%
+Sangamon County,Capital 073,Davis,21.91%,62,Dirksen-Londrigan,78.09%,221,283,38.11%
+Sangamon County,Capital 075,Davis,27.04%,73,Dirksen-Londrigan,72.96%,197,270,49.21%
+Sangamon County,Capital 076,Davis,33.10%,143,Dirksen-Londrigan,66.90%,289,432,55.32%
+Sangamon County,Capital 077,Davis,11.17%,23,Dirksen-Londrigan,88.83%,183,206,38.19%
+Sangamon County,Capital 078,Davis,45.78%,179,Dirksen-Londrigan,54.22%,212,391,56.07%
+Sangamon County,Capital 079,Davis,13.08%,34,Dirksen-Londrigan,86.92%,226,260,38.83%
+Sangamon County,Capital 082,Davis,59.47%,446,Dirksen-Londrigan,40.53%,304,750,75.30%
+Sangamon County,Capital 083,Davis,19.89%,36,Dirksen-Londrigan,80.11%,145,181,39.37%
+Sangamon County,Capital 084,Davis,38.26%,158,Dirksen-Londrigan,61.74%,255,413,51.03%
+Sangamon County,Capital 087,Davis,39.69%,229,Dirksen-Londrigan,60.31%,348,577,61.42%
+Sangamon County,Capital 088,Davis,37.28%,107,Dirksen-Londrigan,62.72%,180,287,46.01%
+Sangamon County,Capital 089,Davis,24.92%,83,Dirksen-Londrigan,75.08%,250,333,59.68%
+Sangamon County,Capital 092,Davis,54.29%,335,Dirksen-Londrigan,45.71%,282,617,72.83%
+Sangamon County,Capital 093,Davis,51.69%,245,Dirksen-Londrigan,48.31%,229,474,62.14%
+Sangamon County,Capital 094,Davis,48.48%,288,Dirksen-Londrigan,51.52%,306,594,77.26%
+Sangamon County,Capital 095,Davis,65.88%,502,Dirksen-Londrigan,34.12%,260,762,76.56%
+Sangamon County,Capital 096,Davis,35.40%,183,Dirksen-Londrigan,64.60%,334,517,67.01%
+Sangamon County,Capital 097,Davis,43.22%,223,Dirksen-Londrigan,56.78%,293,516,77.76%
+Sangamon County,Capital 099,Davis,51.45%,320,Dirksen-Londrigan,48.55%,302,622,75.51%
+Sangamon County,Capital 101,Davis,54.50%,315,Dirksen-Londrigan,45.50%,263,578,71.05%
+Sangamon County,Capital 102,Davis,39.64%,132,Dirksen-Londrigan,60.36%,201,333,57.05%
+Sangamon County,Cooper 001,Davis,65.52%,114,Dirksen-Londrigan,34.48%,60,174,71.30%
+Sangamon County,Cotton Hill 001,Davis,71.96%,390,Dirksen-Londrigan,28.04%,152,542,70.36%
+Sangamon County,Rochester 001,Davis,59.59%,115,Dirksen-Londrigan,40.41%,78,193,70.03%
+Sangamon County,Rochester 002,Davis,61.19%,298,Dirksen-Londrigan,38.81%,189,487,71.39%
+Sangamon County,Rochester 003,Davis,70.69%,410,Dirksen-Londrigan,29.31%,170,580,72.56%
+Sangamon County,Rochester 004,Davis,65.22%,392,Dirksen-Londrigan,34.78%,209,601,74.06%
+Sangamon County,Rochester 005,Davis,64.18%,439,Dirksen-Londrigan,35.82%,245,684,77.75%
+Sangamon County,Springfield 001,Davis,46.62%,145,Dirksen-Londrigan,53.38%,166,311,3967.00%
+Sangamon County,Springfield 002,Davis,55.78%,140,Dirksen-Londrigan,44.22%,111,251,37.41%
+Sangamon County,Springfield 003,Davis,51.32%,39,Dirksen-Londrigan,48.68%,37,76,56.52%
+Sangamon County,Springfield 004,Davis,49.18%,30,Dirksen-Londrigan,50.82%,31,61,43.59%
+Sangamon County,Springfield 005,Davis,55.05%,120,Dirksen-Londrigan,44.95%,98,218,50.00%
+Sangamon County,Woodside 002,Davis,58.15%,107,Dirksen-Londrigan,41.85%,77,184,63.09%
+Sangamon County,Woodside 004,Davis,62.33%,182,Dirksen-Londrigan,37.67%,110,292,64.77%
+Sangamon County,Woodside 005,Davis,49.78%,223,Dirksen-Londrigan,50.22%,225,448,57.27%
+Sangamon County,Woodside 006,Davis,53.51%,183,Dirksen-Londrigan,46.49%,159,342,43.35%
+Sangamon County,Woodside 007,Davis,33.33%,3,Dirksen-Londrigan,66.67%,6,9,78.32%
+Sangamon County,Woodside 008,Davis,49.21%,249,Dirksen-Londrigan,50.79%,257,506,61.46%
+Sangamon County,Woodside 009,Davis,56.14%,215,Dirksen-Londrigan,43.86%,168,383,63.17%
+Sangamon County,Woodside 010,Davis,75.00%,3,Dirksen-Londrigan,25.00%,1,4,69.43%
+Sangamon County,Woodside 011,Davis,55.82%,187,Dirksen-Londrigan,44.18%,148,335,62.57%
+Sangamon County,Woodside 012,Davis,45.74%,86,Dirksen-Londrigan,54.26%,102,188,47.26%
+Sangamon County,Woodside 013,Davis,42.51%,71,Dirksen-Londrigan,57.49%,96,167,52.60%

@@ -1,5 +1,3 @@
-
-
 // Creating map object
 const map = L.map("map", {
     //lat and lon for Springfield, IL
@@ -26,16 +24,25 @@ const map = L.map("map", {
   });
 
   //Create Function to determine Color of each district here
+  //function chooseColor(district) {
+  // switch (district) {
+  
+    //case "":
+    //  return "yellow";
+   
+    //}
+  //}
+  
 
   d3.json(link).then(function(data) {
     console.log(data);
     // Creating a geoJSON layer with the retrieved data
     L.geoJson(data, {
-      // Style each feature (in this case a neighborhood)
+      // Style each feature 
       style: function(feature) {
         return {
           color: "white",
-          // Call the chooseColor function to decide which color to color our neighborhood (color based on borough)
+          // Call the chooseColor function to decide which color to color our precinct
           fillColor: chooseColor(feature.properties),
           fillOpacity: 0.5,
           weight: 1.5
@@ -59,13 +66,13 @@ const map = L.map("map", {
               fillOpacity: 0.5
             });
           },
-          // When a feature (neighborhood) is clicked, it is enlarged to fit the screen
+          // When a feature (precinct) is clicked, it is enlarged to fit the screen
           click: function(event) {
             map.fitBounds(event.target.getBounds());
           }
         });
         // Giving each feature a pop-up with information pertinent to it
-        layer.bindPopup("<h1>" + feature.properties + "</h1> <hr> <h2>" + feature.properties + "</h2>");
+        layer.bindPopup("<h1>" + feature.properties.Name + "</h1> <hr> <h2>" + feature.properties + "</h2>");
   
       }
     }).addTo(map);
